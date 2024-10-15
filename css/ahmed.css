@@ -145,9 +145,6 @@ a{
     height: 65px;
     color: black;
   }
-  .mega-menu{
-    background-color: var(--main-3rd-color);
-  }
 }
 .header .container{
   display: flex;
